@@ -5,7 +5,7 @@
 		{{ with .Site.Params.contact.content }}<p>{{ . | markdownify }}</p>{{ end }}
 	{{ end }}
 	<div class="row" id="contact-form">
-		<!-- {{ if (isset .Site.Params.contact "email") | and (gt (len .Site.Params.contact.email) 0) }}
+		{{ if (isset .Site.Params.contact "email") | and (gt (len .Site.Params.contact.email) 0) }}
 		<div class="8u 12u$(small)">
 			<form action="//formspree.io/{{ .Site.Params.contact.email }}" method="POST">
 				<div class="row uniform 50%">
@@ -22,10 +22,24 @@
 			</form>
 		</div>
 		{{ else }}
-		<div class="8u 12u$(small)">&nbsp;</div> -->
+		<div class="8u 12u$(small)">&nbsp;</div>
 		{{ end }}
 		<div class="4u$ 12u$(small)">
 			<ul class="labeled-icons">
+				{{ if isset .Site.Params.contact "address" }}
+				<li>
+					<h3 class="icon fa-home"><span class="label"></span></h3>
+					{{ if isset .Site.Params.contact "gmaps_address" }}
+					<a href="https://maps.google.com/?q={{ .Site.Params.contact.gmaps_address}}">
+					{{ end }}
+					{{ range .Site.Params.contact.address }}
+						{{ . }}<br />
+					{{ end }}
+					{{ if isset .Site.Params.contact "gmaps_address" }}
+					</a>
+					{{ end }}
+				</li>
+				{{ end }}
 				{{ if isset .Site.Params.contact "phone" }}
 				<li>
 					<h3 class="icon fa-mobile"><span class="label"></span></h3>
