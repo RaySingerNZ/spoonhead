@@ -3,7 +3,7 @@ title: "About Spoonhead"
 # date: 2017-08-23T07:51:43+12:00
 draft: false
 ---
-New Zealand's master of psychedelic chunk, Spoonhead, is known for his uncommon hybrid of progressive-psy, psy-breaks and bass. Spoonhead has been locked in the studio for the last few months crafting a fresh new arsenal of delicious music. Spoonhead is now set to unleash these beautiful weapons on dance floors throughout Australasia.
+New Zealand's master of psychedelic chunk, Spoonhead, is known for his uncommon hybrid of progressive-psy, breaks and bass. Spoonhead has been locked in the studio for the last few months crafting a fresh new arsenal of delicious music. Spoonhead is now set to unleash these beautiful weapons on dance floors throughout Australasia.
 
 The Spoonhead experience sends you awash on the dance floor. Futuristic synths soar over ancient tribal rhythms while richly layered textures infuse with the sounds of his homeland Aotearoa.
 
