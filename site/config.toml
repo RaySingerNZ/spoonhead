@@ -49,7 +49,7 @@ paginate = 10
 	[params.about]
 		hide  = false
 		title = "Kia Ora friends, Spoonhead is back!"
-		content = "After a few years getting my life together after the Christchurch earthquakes, I'm stoked to annouce that Spoonhead is back in business. I've got a heap of new music in progress some of which is ready to release! I've recently returned from some amazing shows where I was blown away by the response to my music. I'm now super pumped to write more and get creative AF. Watch this space!"
+		content = "After a few years getting my life together after the Christchurch earthquakes, I'm stoked to annouce that Spoonhead is back in business. I've recently returned from some amazing shows where I was blown away by the response to my music. I'm now super pumped to write more and get creative AF. Check out my latest release 'An Uncommon Hybrid' below."
 
 
 	[params.portfolio]
@@ -63,13 +63,13 @@ paginate = 10
 			image = "fulls/02.jpg"
 			thumb = "thumbs/02.jpg"
 			title = "Day 2 Unlocked."
-			description = "I'm playing Day 2 Unlocked in Golden Bay on the 20th of Jan 2017"
+			description = "Amazing festival in Golden Bay in Jan 2017 - pictures to come"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/05.jpg"
 			thumb = "thumbs/05.jpg"
 			title = "An Uncommon Hybrid EP."
-			description = "Coming soon on WEAPON Records."
+			description = "Out now on WEAPON Records."
 
 	[params.recentposts]
 		hide  = false
