@@ -31,7 +31,7 @@ paginate = 10
 		# Use Markdown to format the string. This works nearly all over the theme
 		bio = "New Zealand's master of psychedelic chunk, **Spoonhead**, is known for his uncommon hybrid of progressive-psy, breaks & bass. "   
 		# The icons will be shown if you enter your username
-		soundcloud = "spoonhead.music"
+		soundcloud = "spoonhead"
 		facebook = "spoonhead.music"
 		github = "RaySingerNZ"
 		instagram = "spoonhead.music"
