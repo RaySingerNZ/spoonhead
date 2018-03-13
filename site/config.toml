@@ -58,18 +58,17 @@ paginate = 10
 
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
+		[[params.portfolio.gallery]]
+			image = "fulls/05.jpg"
+			thumb = "thumbs/05.jpg"
+			title = "An Uncommon Hybrid EP"
+			description = "Out now on WEAPON Records & the Spoonhead Bandcamp"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/02.jpg"
 			thumb = "thumbs/02.jpg"
 			title = "Day 2 Unlocked."
 			description = "Amazing festival in Golden Bay in Jan 2017 - pictures to come"
-
-		[[params.portfolio.gallery]]
-			image = "fulls/05.jpg"
-			thumb = "thumbs/05.jpg"
-			title = "An Uncommon Hybrid EP."
-			description = "Out now on WEAPON Records."
 
 	[params.recentposts]
 		hide  = false
