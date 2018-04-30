@@ -59,6 +59,18 @@ paginate = 10
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
 		[[params.portfolio.gallery]]
+			image = "fulls/01.jpg"
+			thumb = "thumbs/01.jpg"
+			title = "Universal Tribe Records"
+			description = "Spoonhead joins Universal Tribe Records. New EP in the works!"
+
+		[[params.portfolio.gallery]]
+			image = "fulls/03.jpg"
+			thumb = "thumbs/03.jpg"
+			title = "Australian Winter Gigs"
+			description = "Heading across the ditch to play a few exciting shows"
+
+		[[params.portfolio.gallery]]
 			image = "fulls/05.jpg"
 			thumb = "thumbs/05.jpg"
 			title = "An Uncommon Hybrid EP"

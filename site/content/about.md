@@ -9,7 +9,7 @@ The Spoonhead experience sends you awash on the dance floor. Futuristic synths s
 
 Writing such a diverse range of genres (and having a truckload of original material to draw from) allows Spoonhead to smoothly flow between acts of different genres. Spoonhead’s moldable, tweakable live set makes for loads of fun on the dance floor and allows plenty of room for experimentation.
 
-Spoonhead is as much at home in Australia as his homeland New Zealand; having played at Earth Frequency, Cairns Winter Solstice, Collaborations, Psyfari and many more. Be sure to check out Spoonhead's next round of releases, coming out on the infamous WEAPON Records and the great underground label No Qualms.
+Spoonhead is as much at home in Australia as his homeland New Zealand; having played at Earth Frequency, Cairns Winter Solstice, Collaborations, Psyfari and many more. Be sure to check out Spoonhead's latest E.P. from the infamous WEAPON Records and keep in touch to hear what's in the works for Universal Tribal Records - deep tribal progressive psy!
 
 ###  <a href="https://drive.google.com/open?id=1UNpiRJc7oLGq3lR4VtsFDlbgTHiAsZ_i" target="_blank"><i class="icon fa-cloud-download"></i> - Download Press Kit</a>
 ###  [<i class="icon fa-soundcloud"></i> - SoundCloud](https://soundcloud.com/spoonhead) 
