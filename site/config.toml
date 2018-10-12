@@ -49,7 +49,7 @@ paginate = 10
 	[params.about]
 		hide  = false
 		title = "Kia Ora friends, Spoonhead is back!"
-		content = "After a few years getting my life together after the Christchurch earthquakes, I'm stoked to annouce that Spoonhead is back in business. I've recently returned from some amazing shows where I was blown away by the response to my music. I'm now super pumped to write more and get creative AF. Check out my latest release 'An Uncommon Hybrid' below."
+		content = "I'm stoked to annouce that Spoonhead is back in business. I've recently returned from some amazing shows where I was blown away by the response to my music. I'm now super pumped to write more and get creative AF. Check out my latest releases below."
 
 
 	[params.portfolio]
@@ -62,7 +62,7 @@ paginate = 10
 			image = "fulls/01.jpg"
 			thumb = "thumbs/01.jpg"
 			title = "Universal Tribe Records"
-			description = "Spoonhead joins Universal Tribe Records. New EP in the works!"
+			description = "Spoonhead joins Universal Tribe Records. New E.P. Tribal Dust is out now!"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/03.jpg"
