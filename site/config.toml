@@ -59,28 +59,19 @@ paginate = 10
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
 		[[params.portfolio.gallery]]
+			image = "fulls/04.jpg"
+			thumb = "thumbs/04.jpg"
+			title = "Universal Tribe Records"
+			description = "A fresh new sample pack of seriously twisted 3D sound design!"
+
+		[[params.portfolio.gallery]]
 			image = "fulls/01.jpg"
 			thumb = "thumbs/01.jpg"
-			title = "Universal Tribe Records"
+			title = "Twisted Machines Sample Pack"
 			description = "Spoonhead joins Universal Tribe Records. New E.P. Tribal Dust is out now!"
 
-		[[params.portfolio.gallery]]
-			image = "fulls/03.jpg"
-			thumb = "thumbs/03.jpg"
-			title = "Australian Winter Gigs"
-			description = "Heading across the ditch to play a few exciting shows"
 
-		[[params.portfolio.gallery]]
-			image = "fulls/05.jpg"
-			thumb = "thumbs/05.jpg"
-			title = "An Uncommon Hybrid EP"
-			description = "Out now on WEAPON Records & the Spoonhead Bandcamp"
 
-		[[params.portfolio.gallery]]
-			image = "fulls/02.jpg"
-			thumb = "thumbs/02.jpg"
-			title = "Day 2 Unlocked."
-			description = "Amazing festival in Golden Bay in Jan 2017 - pictures to come"
 
 	[params.recentposts]
 		hide  = false
